@@ -1,0 +1,2 @@
+# sipos.ro
+Tibors Webseite
