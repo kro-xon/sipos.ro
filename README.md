@@ -1,2 +1,2 @@
-# sipos.ro
+# sipos-ro
 Tibors Webseite
